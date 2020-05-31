@@ -29,7 +29,9 @@ and client program.c
 ### Usage
 
 Firstly each .c file have to be compiled. Then by executing server program user
-can enter his message with priority. **Example:** 1 hi there. So, here ”1” is
+can enter his message with priority. 
+
+**Example:** 1 hi there. So, here ”1” is
 the priority of the message and ”hi there” is our message. After writing some
 messages the user can execute client program to receive the messages in order
 with their priority.
